@@ -26,6 +26,7 @@ namespace MyNewCoolProject
             Console.WriteLine("Hello world again!");
             Console.WriteLine("Hello world again!");
             Console.WriteLine("Hello world aвыфафываgain!");
+            Console.ReadLine();
         }
     }
 }
