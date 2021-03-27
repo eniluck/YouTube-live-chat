@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YouTubeLiveChat.ConsoleApp
+namespace MyNewCoolProject
 {
     class Program
     {
